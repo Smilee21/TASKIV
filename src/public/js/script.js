@@ -1,9 +1,6 @@
 const elementosForm = document.getElementById("formData");
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 86924c6b0981242707e94417fd39851b44202165
 elementosForm.addEventListener("submit", async (event) => {
   event.preventDefault();
   let fecha = new Date();
