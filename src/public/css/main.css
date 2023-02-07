@@ -11,3 +11,7 @@ body{
 .mono{
     font-family: monospace;
 }
+
+.size{
+    font-size: 1em;
+}
