@@ -6,6 +6,6 @@ Caracteristicas Principales:
 #    CRUD
 # Permite registrarse, guardar la sesion e iniciar sesion, tambien a traves de Google
 # Los datos que se ingresan en el formulario de contacto son enviados a un correo preestablecido.
-#Cuenta con una BD MYSQL
+# Cuenta con BD MySql
 
-#Cabe destacar que claramente hay muchas cosas que pueden mejorar. :)
+# Cabe destacar que aun tiene cosas por mejorar :)
